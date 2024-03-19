@@ -17,4 +17,4 @@
 def main(n):
   return f"your mom size {n} tons"
 
-print(main(420))
+print(main(40))
